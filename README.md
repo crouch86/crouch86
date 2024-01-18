@@ -1,2 +1,2 @@
-![image](https://github.com/crouch86/crouch86/assets/81594192/073a7c91-63df-4ef6-acc6-10749eb649b1)
-![crouch86's github stats](https://github-readme-stats.vercel.app/api?username=crouch86&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=highcontrast) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crouch86&repo=recovery_xiaomi_selene&theme=highcontrast)](https://github.com/crouch86/recovery_xiaomi_selene)
+![crouch86's github stats](https://github-readme-stats.vercel.app/api?username=crouch86&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=highcontrast) ![image](https://github.com/crouch86/crouch86/assets/81594192/8ce05791-db66-4a14-bb3a-ad15d0779f95)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crouch86&repo=recovery_xiaomi_selene&theme=highcontrast)](https://github.com/crouch86/recovery_xiaomi_selene)
