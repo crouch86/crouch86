@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crouch86)](https://github.com/anuraghazra/github-readme-stats)
+[![stat](https://github-readme-stats.vercel.app/api?username=crouch86&show_icons=true)](https://github.com/crouch86/recovery_xiaomi_selene)
