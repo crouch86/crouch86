@@ -1,1 +1,1 @@
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tl43s7r2b71iorrltw7tt9cfe&count={1})
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crouch86)](https://github.com/anuraghazra/github-readme-stats)
